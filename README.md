@@ -32,3 +32,9 @@ Please kindly follow the below steps to contribute.
 Make sure you delete the PR branch once the merge is completed.
 
 Happy Open Sourcing! 🤘🏻
+
+Following the above steps learned the below
+
+* Cloning the repository.
+* Creating Pull Requests.
+* Merging the Pull Requests.
