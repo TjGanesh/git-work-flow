@@ -161,3 +161,4 @@ Delete the branch in the GitHub.
 How can I set github in vs code:
 
 Open new terminal click on the powershell choose default shell and search git bash and clicked .
+All steps are covered.
